@@ -1,0 +1,6 @@
+- [x] Create `db_connect.php`
+- [/] Create `setup_db.php`
+- [x] Update `addproperti.php` for database insertion and file uploads
+- [x] Create `uploads/` directory
+- [x] Update `myproject.php` to dynamically fetch and display properties
+- [x] Verify functionality
